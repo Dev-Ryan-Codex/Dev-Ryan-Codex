@@ -1,86 +1,121 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<h1 align="center">Hola, soy Josua Gómez 👋</h1>
+
+<p align="center">
+  Estudiante de Ingeniería de Sistemas · Desarrollador de software · Lima, Perú
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+<p align="center">
+  <a href="https://www.linkedin.com/in/josuagomezcabrera/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josua%20G%C3%B3mez-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:josua_gomez.25@hotmail.com">
+    <img alt="Correo" src="https://img.shields.io/badge/Correo-josua__gomez.25@hotmail.com-EA4335?style=flat-square&logo=maildotru&logoColor=white">
+  </a>
+  <img alt="Ubicación" src="https://img.shields.io/badge/Lima-Perú-D91023?style=flat-square">
+</p>
 
 ---
- 
+
 ## 👾 `whoami`
- 
+
 ```bash
-$ cat /etc/ryan/profile.txt
- 
-Name     : Josua Gomez
-Alias    : Ryan
-Role     : Systems Engineering Student + Software Reverse Engineer
-Location : 🌍 Somewhere deep in the code
-Status   : [ Actively breaking & rebuilding things ]
+$ cat /etc/ryan/perfil.txt
+
+Nombre    : Josua Gómez
+Alias     : Ryan
+Rol       : Estudiante de Ingeniería de Sistemas + desarrollador full-stack
+Ubicación : Lima, Perú
+Intereses : Ingeniería inversa, arquitectura backend, Android nativo
+Estado    : [ Rompiendo y reconstruyendo cosas ]
 ```
- 
-I'm a **Systems Engineering student** with a passion for understanding how things work *under the hood*. By day I study systems; by night I reverse-engineer software to find what others can't see. I move between **frontend creativity** and **backend architecture** like it's second nature.
- 
+
+Me interesa entender cómo funcionan las cosas *por dentro*: desde una consulta SQL
+que tarda de más hasta cómo un binario resuelve sus dependencias. Me muevo con
+soltura entre el **frontend** y la **arquitectura de backend**, y últimamente
+paso bastante tiempo en **Android nativo con Kotlin y Jetpack Compose**.
+
 ---
 
+## 🧠 Sobre mí
 
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+- 🔭 Trabajando en **Finanzas**, una app de finanzas personales con API propia, web y cliente Android nativo.
+- 🌱 Aprendiendo **Kotlin**, **Jetpack Compose** y arquitectura de APIs con **NestJS**.
+- 💬 Pregúntame sobre **SQL**, **Java**, **C#**, **JavaScript/TypeScript** y **Android**.
+- 🤝 Abierto a colaborar en proyectos donde haya algo que diseñar desde cero.
+- ⚡ Dato curioso: me gustan los girasoles. 🌻
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## 🛠️ Stack
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+**Lenguajes**
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+**Backend y datos**
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+**Frontend y móvil**
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Herramientas**
 
-<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+---
 
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+## 📌 Proyecto destacado
 
-Last Edited on: 04/09/2021
+### 💸 Finanzas — gestor de finanzas personales *(repositorio privado)*
+
+Aplicación completa para llevar el control del dinero del día a día, construida
+de punta a punta: API, cliente web y app móvil.
+
+- **API en NestJS** con autenticación JWT, refresh de sesión y aritmética decimal
+  exacta para que ningún monto se pierda en redondeos de punto flotante.
+- **App Android nativa en Kotlin + Jetpack Compose**, migrada desde una versión
+  híbrida con Capacitor para ganar rendimiento y control sobre la interfaz.
+- **Presupuesto 50/30/20**, metas de ahorro, cuentas múltiples, gastos fijos y
+  panel mensual con desglose gráfico.
+- **Filtros y exportación a CSV** de movimientos, compartibles desde el móvil
+  mediante `FileProvider`.
+- Sesión guardada con `EncryptedSharedPreferences` y tema claro/oscuro que
+  sincroniza incluso las barras del sistema en Android 15+.
+
+> El repositorio es privado por ahora. Si te interesa el proyecto, escríbeme y
+> con gusto te lo enseño.
+
+---
+
+## 📫 Dónde encontrarme
+
+<p>
+  <a href="https://www.linkedin.com/in/josuagomezcabrera/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:josua_gomez.25@hotmail.com">
+    <img alt="Correo" src="https://img.shields.io/badge/Correo-EA4335?style=flat-square&logo=maildotru&logoColor=white">
+  </a>
+  <a href="https://github.com/Dev-Ryan-Codex">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center"><sub>Gracias por pasar por aquí. 🌻</sub></p>
