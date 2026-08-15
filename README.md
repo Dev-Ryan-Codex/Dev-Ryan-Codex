@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Josua Gómez 👋</h1>
+<h1 align="center">Hola, soy Josua Gomez 👋</h1>
 
 <p align="center">
   Estudiante de Ingeniería de Sistemas · Desarrollador de software · Lima, Perú
@@ -21,7 +21,7 @@
 ```bash
 $ cat /etc/ryan/perfil.txt
 
-Nombre    : Josua Gómez
+Nombre    : Josua Gomez
 Alias     : Ryan
 Rol       : Estudiante de Ingeniería de Sistemas + desarrollador full-stack
 Ubicación : Lima, Perú
