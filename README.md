@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josuagomezcabrera/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josua%20G%C3%B3mez-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josua%20Gomez-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:josua_gomez.25@hotmail.com">
     <img alt="Correo" src="https://img.shields.io/badge/Correo-josua__gomez.25@hotmail.com-EA4335?style=flat-square&logo=maildotru&logoColor=white">
